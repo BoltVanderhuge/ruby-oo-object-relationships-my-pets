@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /mnt/c/Users/John/dev/flatiron/labs/ruby-oo-object-relationships-my-pets/lib/owner.rb:62 :
+
+    [1;34m57[0m: 
+    [1;34m58[0m: 
+    [1;34m59[0m:   [32mdef[0m [1;34msell_pets[0m
+    [1;34m60[0m:     pets = [1;36mself[0m.cats + [1;36mself[0m.dogs 
+    [1;34m61[0m:   [32mend[0m
+ => [1;34m62[0m:   binding.pry
+    [1;34m63[0m: [32mend[0m
+    [1;34m64[0m: 
+    [1;34m65[0m: [1;34m# john = Owner.new ("John")[0m
+    [1;34m66[0m: 
+    [1;34m67[0m:   binding.pry
+
